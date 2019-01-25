@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\embed\embed\obj\Debug\embed.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\embed\embed\bin\Debug\PEPlugin.dll
+C:\Users\Administrator\Desktop\embed\embed\bin\Debug\utakoto.dll
+C:\Users\Administrator\Desktop\embed\embed\bin\Debug\utakoto.pdb
+C:\Users\Administrator\Desktop\embed\embed\obj\Debug\utakoto.dll
+C:\Users\Administrator\Desktop\embed\embed\obj\Debug\utakoto.pdb
