@@ -2,6 +2,9 @@
 从View窗口选择获取模型信息插件，方便查看模型参数，凡是label都可点击复制到剪贴板，到对应label粘贴即可，方便改参数
 
 
+![](https://github.com/walogia/Utakoto/blob/master/preview.png)
+
+
 **本插件结构借鉴了 韦驮天 开发的 PEBrowser插件**
 （项目：https://github.com/weituotian/PEBrowser）
 
